@@ -9,6 +9,7 @@ namespace RPGTest
     class Program{
         static void Main(string[] args)
         {
+            // Testing
             Console.WriteLine("Testing...");
             Console.ReadLine();
         }
